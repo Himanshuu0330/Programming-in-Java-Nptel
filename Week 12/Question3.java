@@ -14,3 +14,5 @@ double s2nce=s1.nextDouble();
 double avg=(s1nce+s2nce)/2;
 
 System.out.print(sumitnce+nce+" "+roll+" "+avg);
+  }
+}
